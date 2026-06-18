@@ -34,5 +34,4 @@ I focus on translating advanced concepts directly from modern machine learning r
 
 * **Email:** [janhaviipkulkarni@gmail.com](mailto:janhaviipkulkarni@gmail.com)
 * **LinkedIn:** [linkedin.com/in/kullkarnij](https://linkedin.com/in/kullkarnij)
-* **Portfolio:** [portfolio.janhavii.me](janhavii-kulkarni-portfolio.vercel.app
-)
+* **Portfolio:** [portfolio.janhavii.me](janhavii-kulkarni-portfolio.vercel.app)
